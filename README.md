@@ -1,6 +1,8 @@
-# Rotten Fruits Detection Model
+# 🚀🚀Rotten Fruits Detection Model
 
-## Overview
+
+
+## Overview ✈️🚀
 This project presents a Rotten Fruits Detection Model, utilizing Convolutional Neural Networks (CNN), saliency map analysis, and class activation mapping. The model is built using TensorFlow and Keras, leveraging the powerful InceptionV3 architecture for transfer learning.
 
 The aim of this project is to develop a robust and accurate system capable of identifying rotten fruits, thereby addressing food waste issues at various stages of the supply chain and consumer levels.
@@ -16,13 +18,7 @@ The aim of this project is to develop a robust and accurate system capable of id
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your_username/rotten-fruits-detection.git
-   ```
-
-2. Install the required dependencies:
-
-   ```bash
-   pip install -r requirements.txt
+   https://github.com/asasemahmed/rotten-fruits-detection.git
    ```
 
 3. Download the pre-trained weights for the InceptionV3 model.
@@ -46,9 +42,5 @@ Contributions to improve the model's performance, add new features, or enhance t
 
 ## Contact
 For questions, feedback, or collaborations, feel free to reach out:
-- Email: your_email@example.com
+- Email: asemahmed5447@gmail.com
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/asem-abdullah-885518223/)
-
---- 
-
-Feel free to customize this README file according to your project's specifics and preferences. Happy coding! 🚀🍏🍌🍓

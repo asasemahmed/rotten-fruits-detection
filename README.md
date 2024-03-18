@@ -14,6 +14,10 @@ The aim of this project is to develop a robust and accurate system capable of id
 - Employs transfer learning with the InceptionV3 model to leverage pre-trained features.
 - Developed with TensorFlow and Keras, along with other supporting libraries.
 
+data
+   ```bash
+   https://www.kaggle.com/datasets/alihasnainch/fruits-dataset-for-classification
+   ```
 ## Installation
 1. Clone this repository:
 
